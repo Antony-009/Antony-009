@@ -66,7 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antony%20Raj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antony-raj-8b42b3254/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-darkblue?style=for-the-badge&logo=githubpages)](https://antony-009.github.io/antonyportfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-antonyraj010@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antony958570@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-antony958570@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antony958570@gmail.com)
 
 ---
 
