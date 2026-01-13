@@ -5,13 +5,22 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Completed BSc IT  
-- 📚 Pursuing PG Diploma in **Cybersecurity & Cyber Law**  
-- 🛡️ Passionate about **ethical hacking, cybersecurity, and secure development**  
-- 👨‍💻 Love building: [My Portfolio](https://antony-009.github.io/antonyportfolio/)  
-- 🚆 Big fan of **cycling and train journeys** – always exploring  
-- 🎯 Dream: **Hack the entire world ethically & secure the digital space!**
--  Follow me :[TRYHACKME](https://https://tryhackme.com/p/Ant0nyraj)  
+🎓 **BSc in Information Technology**
+
+📚 **Currently pursuing a PG Diploma in Cybersecurity & Cyber Law**
+
+🛡️ **Passionate about ethical hacking, cybersecurity, and secure development**
+
+👨‍💻 **Love building things** → Portfolio:  
+🔗 https://antony-009.github.io/antonyportfolio/
+
+🚆 **Enthusiast of cycling and train journeys** — always exploring new paths
+
+🎯 **Dream:** Hack the world ethically and help secure the digital space
+
+🔐 **TryHackMe:**  
+🔗 https://tryhackme.com/p/Ant0nyraj
+
 
 ---
 
