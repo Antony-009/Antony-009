@@ -9,9 +9,9 @@
 - 📚 Pursuing PG Diploma in **Cybersecurity & Cyber Law**  
 - 🛡️ Passionate about **ethical hacking, cybersecurity, and secure development**  
 - 👨‍💻 Love building: [My Portfolio](https://antony-009.github.io/antonyportfolio/)  
-- 📈 Constantly improving my GitHub **contribution streak** and skills  
 - 🚆 Big fan of **cycling and train journeys** – always exploring  
 - 🎯 Dream: **Hack the entire world ethically & secure the digital space!**
+-  Follow me :[TRYHACKME](https://https://tryhackme.com/p/Ant0nyraj)  
 
 ---
 
