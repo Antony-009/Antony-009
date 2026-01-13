@@ -26,6 +26,17 @@
 
 ## 🔧 Tech & Tools I Know
 
+### 🛡️ Cybersecurity & Core Skills
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A1AFF?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-E53935?style=for-the-badge&logo=kalilinux&logoColor=white)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-7B68EE?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+### 💻 Programming & Development
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,8 +48,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)
-![Hacking](https://img.shields.io/badge/Hacking-E53935?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
 
 ---
 
