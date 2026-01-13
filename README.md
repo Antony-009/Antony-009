@@ -66,21 +66,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antony-009&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<a href="https://github.com/Antony-009">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-009&bg_color=1a1b27&color=9f9f9f&line=5dade2&point=ffffff&area=true&hide_border=true" />
-</a>
-
----
 
 ## 🔗 Connect With Me
 
