@@ -1,30 +1,31 @@
 <h1 align="center">Hi 👋, I'm Antony Raj</h1>
-<h3 align="center">Ethical Hacker in Training | PGD in Cybersecurity & Cyber Law | BSc IT Graduate</h3>
+<h3 align="center">
+Ethical Hacker in Training | PG Diploma in Cybersecurity & Cyber Law | BSc IT Graduate
+</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 **BSc in Information Technology**
+🎓 **Bachelor of Science in Information Technology (BSc IT)**  
 
-📚 **Currently pursuing a PG Diploma in Cybersecurity & Cyber Law**
+📚 **Currently pursuing a PG Diploma in Cybersecurity & Cyber Law**  
 
-🛡️ **Passionate about ethical hacking, cybersecurity, and secure development**
+🛡️ **Strong interest in Ethical Hacking, Cybersecurity, and Secure Application Development**  
 
-👨‍💻 **Love building things** → Portfolio:  
+👨‍💻 **Portfolio:**  
 🔗 https://antony-009.github.io/antonyportfolio/
 
-🚆 **Enthusiast of cycling and train journeys** — always exploring new paths
+🚆 **Interests:** Cycling and train journeys — always exploring new paths and ideas  
 
-🎯 **Dream:** Hack the world ethically and help secure the digital space
+🎯 **Career Goal:** To work as an ethical hacker and contribute towards securing digital systems responsibly  
 
-🔐 **TryHackMe:**  
+🔐 **TryHackMe Profile:**  
 🔗 https://tryhackme.com/p/Ant0nyraj
-
 
 ---
 
-## 🔧 Tech & Tools I Know
+## 🛠️ Technical Skills & Tools
 
 ### 🛡️ Cybersecurity & Core Skills
 
@@ -49,11 +50,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ---
 
-## 🔥 GitHub Stats & Contributions
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Antony-009&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,7 +65,6 @@
 
 ---
 
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antony%20Raj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antony-raj-8b42b3254/)
@@ -75,4 +73,6 @@
 
 ---
 
-<p align="center">🛡️ Built with 💻 by <b>Antony Raj</b> | ❤️ Dreaming to hack the world (ethically) 🌐</p>
+<p align="center">
+🛡️ Built with passion by <b>Antony Raj</b> | Focused on ethical hacking & cybersecurity 🌐
+</p>
