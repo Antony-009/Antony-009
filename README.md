@@ -11,7 +11,7 @@ Ethical Hacker in Training | PG Diploma in Cybersecurity & Cyber Law | BSc IT Gr
 
 📚 **Currently pursuing a PG Diploma in Cybersecurity & Cyber Law**  
 
-🛡️ **Strong interest in Ethical Hacking, Cybersecurity, and Secure Application Development**  
+🛡️ **Strong interest in SOC , VAPT , Cybersecurity, and Secure Application Development**  
 
 👨‍💻 **Portfolio:**  
 🔗 https://antony-009.github.io/antonyportfolio/
