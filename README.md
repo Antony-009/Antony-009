@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Raj</h1>
-<h3 align="center">
-SOC Analyst & VAPT Enthusiast | Blue Team + Offensive Security | BSc IT Graduate
-</h3>
+<h3 align="center">SOC Analyst Enthusiast | Certified Ethical Hacker (CEH) | BSc IT Graduate</h3>
 
 ---
 
@@ -11,69 +9,38 @@ SOC Analyst & VAPT Enthusiast | Blue Team + Offensive Security | BSc IT Graduate
 
 📚 **PG Diploma in Cybersecurity & Cyber Law (Pursuing)**  
 
-🛡️ Hands-on experience in **SOC Simulation, SIEM Monitoring, Log Analysis, and VAPT Assessments**
+🛡️ Entry-level cybersecurity professional with hands-on experience in **SOC monitoring, SIEM tools, log analysis, and incident investigation**.
 
-🔎 Strong focus on:
+🔍 Passionate about **threat detection, security monitoring, and blue team operations**.
 
-### 🔵 Blue Team (SOC)
-- Alert Triage & Incident Response  
-- Brute Force & RDP Attack Detection  
+📍 Based in **Mumbai, India**  
+💼 Open to **SOC Analyst / Cybersecurity Analyst roles**
+
+---
+
+## 🔵 Blue Team (SOC) Skills
+
+- Alert Triage & Incident Investigation  
+- Brute Force Attack Detection  
+- RDP Login Attack Analysis  
 - Phishing Email Investigation  
-- Log Correlation & Root Cause Analysis  
-- MITRE ATT&CK Mapping  
-- Incident Report Documentation  
-
-### 🔴 Offensive Security (VAPT)
-- Web Application Vulnerability Testing  
-- OWASP Top 10 Testing  
-- SQL Injection & XSS Testing  
-- Directory Bruteforcing  
-- Network Scanning & Enumeration  
-- Basic Exploitation & Reporting  
-
-📍 Based in Mumbai | Open to SOC Analyst / VAPT Analyst roles  
-
----
-
-## 🔵 SOC Simulation Experience
-
-I have built and documented real-world SOC simulations replicating Tier 1 SOC workflows:
-
-✔️ Brute Force Attack Detection (Event ID 4625)  
-✔️ RDP Attack Investigation  
-✔️ SPL Query Writing & Alert Tuning  
-✔️ Log-Based Threat Hunting  
-✔️ Incident Reporting with Evidence  
-
-📂 Featured Repository:  
-👉 `SOC-Simulation-Labs`
-
----
-
-## 🔴 VAPT Practical Experience
-
-✔️ Web Application Testing (Manual + Tool-Based)  
-✔️ SQL Injection Testing (Error-based, Union-based)  
-✔️ Cross-Site Scripting (Stored & Reflected)  
-✔️ Broken Authentication Testing  
-✔️ Directory Enumeration (Gobuster)  
-✔️ Nmap Network Scanning & Service Enumeration  
-✔️ Vulnerability Reporting with Risk Rating & Remediation  
-
-📂 Featured Repository:  
-👉 `VAPT-Labs-Reports`
+- Log Correlation & Threat Detection  
+- MITRE ATT&CK Framework Mapping  
+- Incident Reporting & Documentation  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### 🔐 SIEM & Monitoring
+
 - Splunk  
 - Wazuh  
 - Windows Event Viewer  
 - Linux Log Analysis  
 
 ### 🛡️ Security Tools
+
 - Nmap  
 - Wireshark  
 - Burp Suite  
@@ -83,7 +50,8 @@ I have built and documented real-world SOC simulations replicating Tier 1 SOC wo
 - SQLmap  
 - VirusTotal  
 
-### 💻 Technical Skills
+### 💻 Technical Knowledge
+
 - Networking (TCP/IP, DNS, HTTP/HTTPS)  
 - Windows & Linux Administration  
 - Python (Basic Automation)  
@@ -93,9 +61,9 @@ I have built and documented real-world SOC simulations replicating Tier 1 SOC wo
 
 ## 🧠 TryHackMe
 
-🏆 Top 1% on TryHackMe  
-240+ Labs Completed  
-Blue Team & Offensive Path Focused  
+🏆 **Top 2% on TryHackMe**  
+🧪 **210+ Labs Completed**  
+🎯 Focus on **Blue Team & SOC Skills**
 
 🔗 https://tryhackme.com/p/Ant0nyraj
 
@@ -103,8 +71,8 @@ Blue Team & Offensive Path Focused
 
 ## 🎯 Career Objective
 
-To work in a Security Operations Center or VAPT role where I can apply both defensive monitoring and offensive testing skills to strengthen organizational cybersecurity posture.
+To start my career in a **Security Operations Center (SOC)** where I can apply my knowledge of **security monitoring, threat detection, and incident response** to help protect organizations from cyber threats.
 
 ---
 
-🛡️ Building real-world SOC & VAPT projects | Documenting my cybersecurity journey.
+🛡️ *Actively learning cybersecurity and building practical security skills.*
